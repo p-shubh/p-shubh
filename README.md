@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌊 I’m Shubham Prajapati @p-shubh
 - 👀 I’m interested in building project from scratch
-- 🌱 I’m currently learning golang
+- 🌱 Way yo web 3.0
 - 💞 collaborated with @lazarus_network 
 - 📬 shubhamprajapti032@gmail.com
 
