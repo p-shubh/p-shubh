@@ -37,6 +37,9 @@
 <!-- [instagram]: https://instagram.com/sketch.sb -->
 [linkedin]: https://www.linkedin.com/in/shubham-prajapati-5aa33117a/
 
+---
+
+### :fire: My Stats :
 
 <!--
 **p-shubh/p-shubh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
