@@ -45,7 +45,7 @@
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-shubh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br />
-[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=31kg4hexuvhkinbkmvq6vlxufkmy&cover_image=true&theme=default&show_offline=true&background_color=121212)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kg4hexuvhkinbkmvq6vlxufkmy&cover_image=true&theme=default&show_offline=true&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=31kg4hexuvhkinbkmvq6vlxufkmy&redirect=true)
 <!--
 **p-shubh/p-shubh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
