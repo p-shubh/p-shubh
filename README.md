@@ -3,7 +3,7 @@
 - 👀 I’m interested in building project from scratch
 - 🌱 Way to web 3.0
 - 💞 collaborated with @lazarus_network 
-- 📬 shubhamprajapti032@gmail.com
+- 📬 shubhamprajapati032@gmail.com
 
 ### Connect with me:
 <!-- 
