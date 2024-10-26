@@ -1,6 +1,5 @@
-### 
-{{image "source":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg"}}
-{{/image}}
+![Image 5]([https://github.com/user-attachments/assets/34e09ee8-b3aa-40aa-bd8c-69d499a220e5](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg))
+**<div align="center"><a href="https://www.github-profile-generator.in/" target="_blank">DEMO</a></div>**
 
 ![Profile views](https://komarev.com/ghpvc/?username=p-shubh&label=Profile%20views&color=0e75b6&style=flat)
 
