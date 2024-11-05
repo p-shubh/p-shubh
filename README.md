@@ -4,7 +4,34 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Engineer and Server Handler
 -----------------------------------
 
-I'm a dedicated backend developer with over 2 years of experience in building scalable, efficient solutions using Golang and cloud services. My expertise spans authentication systems, database management, and DevOps practices—bringing robust, high-performance solutions to life. 🛠️ Areas of Expertise: Backend Development: Proficient in Golang with frameworks like Gin and Fiber for creating fast and secure APIs. Authentication & Security: Skilled in OAuth, JWT, OIDC, and secure authentication protocols, including Google and Apple authentication. Database Management: Experienced in PostgreSQL, MySQL, and Redis, with a focus on performance optimization and secure, reliable data handling. Cloud & DevOps: Proficient in Docker, Linux, and deploying applications on AWS and GCP with CI/CD pipelines. 🌱 Current Projects Developing a Go-based app to retrieve real-time cryptocurrency data, stored in PostgreSQL, with endpoints for top volume, gainer, and loser analysis. Writing articles on DevOps Monitoring and Automation tools like Jenkins, Prometheus, Grafana, and Docker. 🎥 Outside the Code Outside of tech, I'm passionate about filmmaking, video editing, and traveling. I also enjoy reading and writing, especially creating short movie scripts in my free time.
+## Professional Summary
+- Dedicated backend developer with over 2 years of experience in building scalable, efficient solutions.
+- Skilled in Golang and cloud services, with a focus on robust, high-performance solutions.
+
+## 🛠️ Areas of Expertise
+- **Backend Development**  
+  - Proficient in Golang with frameworks like Gin and Fiber for creating fast, secure APIs.
+
+- **Authentication & Security**  
+  - Skilled in OAuth, JWT, OIDC, and secure authentication protocols, including Google and Apple authentication.
+
+- **Database Management**  
+  - Experienced in PostgreSQL, MySQL, and Redis, focusing on performance optimization and secure, reliable data handling.
+
+- **Cloud & DevOps**  
+  - Proficient in Docker, Linux, and deploying applications on AWS and GCP with CI/CD pipelines.
+
+## 🌱 Current Projects
+- **Cryptocurrency App**  
+  - Developing a Go-based app to retrieve real-time cryptocurrency data, stored in PostgreSQL, with endpoints for top volume, gainer, and loser analysis.
+
+- **DevOps Articles**  
+  - Writing articles on DevOps Monitoring and Automation tools like Jenkins, Prometheus, Grafana, and Docker.
+
+## 🎥 Outside the Code
+- **Filmmaking and Video Editing**: Passionate about creating videos and editing.
+- **Traveling**: Enjoy exploring new places.
+- **Reading & Writing**: Interested in reading and writing short movie scripts in free time.
 
 * 🌍  I'm based in Pune, India
 * ✉️  You can contact me at [shubhamprajapati032@gmail.com](mailto:shubhamprajapati032@gmail.com)
