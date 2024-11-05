@@ -2,11 +2,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =========================================================================================================================================
 
 Backend Engineer and Server Handler
------------------------------------
 
-## Professional Summary
-- Dedicated backend developer with over 2 years of experience in building scalable, efficient solutions.
-- Skilled in Golang and cloud services, with a focus on robust, high-performance solutions.
+I'm a dedicated backend developer with over 2 years of experience in building scalable, efficient solutions using Golang and cloud services. My expertise spans authentication systems, database management, and DevOps practices—bringing robust, high-performance solutions to life.
 
 ## 🛠️ Areas of Expertise
 - **Backend Development**  
