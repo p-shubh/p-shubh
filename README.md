@@ -7,7 +7,7 @@ I'm a dedicated backend developer with over 2 years of experience in building sc
 
 ## 🛠️ Areas of Expertise
 - **Backend Development**  
-  - Proficient in Golang with frameworks like Gin and Fiber for creating fast, secure APIs.
+  - Proficient in Golang with frameworks like Gin,Mux,Echo and Fiber for creating fast, secure APIs.
 
 - **Authentication & Security**  
   - Skilled in OAuth, JWT, OIDC, and secure authentication protocols, including Google and Apple authentication.
