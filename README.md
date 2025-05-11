@@ -32,7 +32,7 @@ I'm a dedicated backend developer with 3 years of experience in building scalabl
 
 * 🌍  I'm based in Pune, India
 * ✉️  You can contact me at [shubhamprajapati032@gmail.com](mailto:shubhamprajapati032@gmail.com)
-* 🧠  I'm learning NodeJS
+* 🧠  I'm learning System Design
 * 🤝  I'm open to collaborating on Digital Service Products
 * ⚡  Part time Videographer
 
