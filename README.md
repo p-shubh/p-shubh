@@ -59,7 +59,7 @@ src="https://img.shields.io/twitter/follow/_s_prajapati_?logo=twitter&style=for-
 
 <a href="http://www.github.com/p-shubh"><img src="https://github-readme-stats.vercel.app/api?username=p-shubh&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="p-shubh's GitHub stats" /></a>
 
-<a href="http://www.github.com/p-shubh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=p-shubh&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=p-shubh" alt="GitHub Streak" /></a>
 
 <a href="https://github.com/p-shubh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-shubh&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
